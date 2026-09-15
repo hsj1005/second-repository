@@ -1,3 +1,4 @@
 def f():
   print(bool(1.1 + 0.1 == 1.2))
-f()
+if f() == false:
+  print("F")
