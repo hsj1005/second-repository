@@ -2,3 +2,4 @@ def f():
   print(bool(1.1 + 0.1 == 1.2))
 if f() == False:
   print("F")
+  #코드 수정1
