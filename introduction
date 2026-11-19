@@ -3,3 +3,4 @@ def f():
 if f() == False:
   print("F")
   #코드 수정1
+  #관리자 요청 
